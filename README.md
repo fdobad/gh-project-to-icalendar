@@ -8,7 +8,7 @@ A read all token from the project owner
 - Place the project number as a repo variable  
 - Publish the repo as a github Page  
 - Setup the frequency of update on the action.yml cron
-
+- Github actions disables the action after 60 days of inactivity on the repo!
 
 # Troubleshoot
 The token is not powerfull enough, check the action logs  
